@@ -1,0 +1,7 @@
+# ~/.config/mxai/bots/operator.toml
+server = "SERVER_URL"
+name = "Operator"
+backend = "shepherd"
+role_file = "HOME_DIR/.config/mxai/roles/istp-operator.txt"
+register = true
+room = "General"

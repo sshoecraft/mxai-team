@@ -1,0 +1,7 @@
+# ~/.config/mxai/bots/architect.toml
+server = "SERVER_URL"
+name = "Architect"
+backend = "shepherd"
+role_file = "HOME_DIR/.config/mxai/roles/intj-architect.txt"
+register = true
+room = "General"

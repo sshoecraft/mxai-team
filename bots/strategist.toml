@@ -1,0 +1,7 @@
+# ~/.config/mxai/bots/strategist.toml
+server = "SERVER_URL"
+name = "Strategist"
+backend = "shepherd"
+role_file = "HOME_DIR/.config/mxai/roles/intj-strategist.txt"
+register = true
+room = "General"

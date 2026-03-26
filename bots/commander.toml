@@ -1,0 +1,7 @@
+# ~/.config/mxai/bots/commander.toml
+server = "SERVER_URL"
+name = "Commander"
+backend = "shepherd"
+role_file = "HOME_DIR/.config/mxai/roles/entj-commander.txt"
+register = true
+room = "General"

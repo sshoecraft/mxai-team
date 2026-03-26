@@ -1,0 +1,4 @@
+for role in commander architect  diplomat  operator  strategist
+do
+	mxai start $role > ~/logs/${role}.log 2>&1 &
+done

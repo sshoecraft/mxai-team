@@ -1,0 +1,7 @@
+# ~/.config/mxai/bots/diplomat.toml
+server = "SERVER_URL"
+name = "Diplomat"
+backend = "shepherd"
+role_file = "HOME_DIR/.config/mxai/roles/enfj-diplomat.txt"
+register = true
+room = "General"
